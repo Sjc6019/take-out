@@ -11,3 +11,8 @@ sky:
     access-key-id: LTAI5tRZZbwiW5aV4QZTuHpo
     access-key-secret: T1HN0ArHA64AIvPc83IqVsUTAJG3gO
     bucket-name: sjc-sky-take-out
+  redis:
+    host: localhost
+    port: 6379
+    password: 159357Wasd@
+    database: 1
