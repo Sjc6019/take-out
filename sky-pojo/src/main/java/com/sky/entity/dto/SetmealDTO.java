@@ -1,4 +1,4 @@
-package com.sky.dto;
+package com.sky.entity.dto;
 
 import com.sky.entity.SetmealDish;
 import lombok.Data;

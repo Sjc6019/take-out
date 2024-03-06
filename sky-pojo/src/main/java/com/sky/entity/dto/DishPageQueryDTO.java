@@ -1,11 +1,11 @@
-package com.sky.dto;
+package com.sky.entity.dto;
 
 import lombok.Data;
 
 import java.io.Serializable;
 
 @Data
-public class SetmealPageQueryDTO implements Serializable {
+public class DishPageQueryDTO implements Serializable {
 
     private int page;
 

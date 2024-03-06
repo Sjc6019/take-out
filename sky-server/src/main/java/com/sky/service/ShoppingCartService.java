@@ -1,7 +1,6 @@
 package com.sky.service;
 
-import com.sky.controller.user.ShoppingCartController;
-import com.sky.dto.ShoppingCartDTO;
+import com.sky.entity.dto.ShoppingCartDTO;
 import com.sky.entity.ShoppingCart;
 
 import java.util.List;

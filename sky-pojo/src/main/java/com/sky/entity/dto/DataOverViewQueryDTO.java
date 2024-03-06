@@ -1,4 +1,4 @@
-package com.sky.dto;
+package com.sky.entity.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
